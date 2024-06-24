@@ -329,6 +329,10 @@ header ul li a.active {
 
 
 /* Styles untuk .containerrr (responsif) */
+.gform {
+    background: linear-gradient(135deg, rgb(36, 148, 240), #ffffff);
+}
+
 .containerrr {
     position: relative;
     width: 90%;
@@ -485,7 +489,7 @@ header ul li a.active {
     }
 }
 
-.gform {
+.google {
     background: linear-gradient(45deg, rgb(36, 148, 240), #ffffff);
 }
 .cardd {
